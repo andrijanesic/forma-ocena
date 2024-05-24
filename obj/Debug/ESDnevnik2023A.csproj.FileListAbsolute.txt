@@ -1,0 +1,17 @@
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\bin\Debug\ESDnevnik2023A.exe.config
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\bin\Debug\ESDnevnik2023A.exe
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\bin\Debug\ESDnevnik2023A.pdb
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.csproj.AssemblyReference.cache
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Form1.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Glavna.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Login.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Ocena.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Properties.Resources.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.raspodela.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Sifarnik.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.Upisnica.resources
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.csproj.GenerateResource.cache
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.exe
+C:\Users\Ucenik.PRVABEOGIM\Downloads\Ocena-main\Ocena-main\obj\Debug\ESDnevnik2023A.pdb
